@@ -1,0 +1,17 @@
+Has a major credit card?
+Has a loan?
+Salary over $10,000?
+Reject.
+$200 Limit.
+Good credit with loan?
+Reject.
+$300 Limit.
+Good credit with card?
+Reject.
+Owns a home?
+Salary over $15,000?
+$200 Limit.
+$500 Limit.
+Salary over $20,000?
+$600 Limit.
+$1000 Limit.
